@@ -1,11 +1,13 @@
 # notnineteenfifty
 
-     <p>This is the 1950s that did not happen.</p><br>
-        <p>It’s the 1950s, HTML and CSS have just been invented, and that is all we have to create this website on our typewriters.</p>
+https://notnineteenfifty.com
 
-        <p>Anachronism is encouraged.</p>
+    This is the 1950s that did not happen.
+    It’s the 1950s, HTML and CSS have just been invented, and that is all we have to create this website on our typewriters.
+
+        Anachronism is encouraged.
             
-        <p>Request your own post using your own html and css</p>
+        Request your own post using your own html and css.
 
  <ul>
             <li>Image (in 16:9 aspect ratio)</li>
