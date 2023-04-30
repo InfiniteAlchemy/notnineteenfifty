@@ -1,4 +1,4 @@
-# notnineteenfifty
+# not nineteen 50
 
 https://notnineteenfifty.com
 
